@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Recipes App 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="290" height="610" alt="lab2 1s" src="https://github.com/user-attachments/assets/ae3a460c-d7ff-45b5-bf64-333cd14427ee" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="290" height="610" alt="lab2 2s" src="https://github.com/user-attachments/assets/04a0bee6-7223-4002-85ba-da1ff94ec57e" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="290" height="610" alt="lab2 3s" src="https://github.com/user-attachments/assets/6aeb65f1-6e67-4947-a8cc-a55459f8ae28" />
+
+<img width="290" height="610" alt="lab2 4s" src="https://github.com/user-attachments/assets/4f328e47-8789-47dd-ac6c-a59449a8f96e" />
+
+
