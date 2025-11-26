@@ -9,9 +9,8 @@ A new Flutter project.
 
 <img width="290" height="610" alt="lab2 2s" src="https://github.com/user-attachments/assets/04a0bee6-7223-4002-85ba-da1ff94ec57e" />
 
-
 <img width="290" height="620" alt="lab2 3s" src="https://github.com/user-attachments/assets/6aeb65f1-6e67-4947-a8cc-a55459f8ae28" />
 
-<img width="290" height="610" alt="lab2 4s" src="https://github.com/user-attachments/assets/4f328e47-8789-47dd-ac6c-a59449a8f96e" />
+
 
 
